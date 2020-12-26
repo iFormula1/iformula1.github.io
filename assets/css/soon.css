@@ -46,6 +46,7 @@ a:hover, a:focus {
 HEADER
 *******************************************************************************************************************************/
 #header .container{
+    font-weight: bold;
     color: #FFF;
     text-align: center;
     position: relative;
@@ -80,7 +81,7 @@ HEADER
 #slider{
     width: 100%;
     position: fixed;
-    background-color: #2c3e50; 
+    background-color: red; 
     top: 0;
     left: 0;
     z-index: 0;
